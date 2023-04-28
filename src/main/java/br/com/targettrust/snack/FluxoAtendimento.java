@@ -40,7 +40,7 @@ public class FluxoAtendimento {
             pagamento.realizarPagamento();
 
             //pagamento.exibirMensagemFinal();
-            pagamento.exibirMensagemFinal("Marcia");
+            pagamento.exibirMensagemFinal("Lucas");
 
             System.out.println();
             /*String mensagem = pagamento.mostrarMensagem();*/
